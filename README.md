@@ -4,4 +4,4 @@ Exemplos de aplicações de grafos na análise de redes sociais apresentados na 
 
 Exemplo 1: Análise de rede social com dados da página de LinkedIn do Lamfo usando Python/Networkx.
 
-Exemplo 2: Análise mais completa usando dados de dataset de benchmarking.
+Exemplo 2: Análise mais completa usando dados de dataset de benchmarking. Autoria: Flavio Oliveira (flaviooliveira-dev).
